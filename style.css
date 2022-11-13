@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.introSection{
+    background-color: #636C79;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+.menuList{
+    width: 700px;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
