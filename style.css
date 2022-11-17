@@ -19,3 +19,58 @@
     justify-content: space-between;
 }
 
+.introInfo{
+    display: flex;
+    justify-content: space-around;
+}
+
+.IntroleftSection img{
+    width: 500px;
+}
+
+.displayInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.displayInfoImage img{
+    width: 800px;
+}
+
+.moreInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cardOne-right img{
+    width: 500px;
+}
+
+.cardTwo-left img{
+    width: 500px;
+}
+
+.cardThree-right img{
+    width: 500px;
+}
+
+.card1, .card2, .card3{
+    display: flex;
+    
+}
+
+.CreativeTeam{
+    display: flex;
+    flex-direction: column;
+}
+
+.CreativeTeamPortfolio{
+    display: flex;
+}
+
+.portfolio_Image img{
+    width:500px
+}
+
