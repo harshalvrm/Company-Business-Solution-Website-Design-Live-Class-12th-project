@@ -74,3 +74,31 @@
     width:500px
 }
 
+.footer{
+    background-color: #10181D;
+    color: #fff;
+}
+
+.UpperInfo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.socialLinks{
+    display: flex;
+}
+
+.socialLinks img{
+    width: 50px;
+    border: solid 1px #fff;
+    background-color: #6e818f;
+    
+    
+}
+
+
+.lowerInfo{
+    display: flex;
+    justify-content: space-around;
+}
+
