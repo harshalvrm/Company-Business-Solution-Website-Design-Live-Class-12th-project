@@ -8,8 +8,23 @@
 }
 
 .nav{
+    height: 100px;
+    padding: 20px;
     display: flex;
     justify-content: space-around;
+    align-items: center;
+
+}
+
+.menuItem{
+    
+    width: 400px;
+    display: flex;
+    text-align: right;
+}
+
+.menuList{
+    margin: 0 -20px;
 }
 
 .menuList{
@@ -22,6 +37,13 @@
 .introInfo{
     display: flex;
     justify-content: space-around;
+}
+
+.IntrorightSection{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    
 }
 
 .IntroleftSection img{
