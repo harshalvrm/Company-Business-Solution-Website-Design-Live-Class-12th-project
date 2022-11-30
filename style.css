@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
 *{
     padding: 0;
     margin: 0;
@@ -31,7 +33,18 @@
     display: flex;
     list-style: none;
     justify-content: space-between;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
 }
+
+.button{
+    padding: 5px 15px;
+    border: solid 0.0001em rgba(255, 255, 255, 0.247);
+    background-color: #636C79;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
 
 .introInfo{
     display: flex;
