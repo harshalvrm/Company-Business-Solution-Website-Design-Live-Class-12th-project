@@ -49,7 +49,16 @@
 .introHeading{
     font-size: 50px;
     font-family: 'Poppins', sans-serif;
+    color: #fff;
 }
+
+.introDescription{
+    color: #fff;
+    font-family: '', sans-serif;
+    width: 80%;
+    
+}
+
 .introInfo{
     display: flex;
     justify-content: space-around;
@@ -59,8 +68,8 @@
 .IntrorightSection{
     display: flex;
     flex-direction: column;
-    justify-items: center;
-    align-items: center;
+    /* justify-items: center; */
+    align-items: left;
 }    
 
 
