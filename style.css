@@ -8,6 +8,7 @@
 
 .introSection{
     background-color: #636C79;
+    height: 700px;
 }
 
 .nav{
@@ -72,12 +73,21 @@
     align-items: left;
 }    
 
+.IntroleftSection{
+    margin-left: 100px;
+    width: 600px;    
+    height: 500px; 
+    overflow: hidden;
+    border: 5px solid black;
+}
 
 .IntroleftSection img{
-    width: 75%;
+    /* width: 75%;
     height: 40em;
     padding: 0px;
-    object-fit: cover;
+    object-fit: cover; */
+    margin-left: 0px;
+
 }
 
 .displayInfo{
