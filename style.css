@@ -78,15 +78,14 @@
     width: 600px;    
     height: 500px; 
     overflow: hidden;
-    border: 5px solid black;
+    ;
 }
 
 .IntroleftSection img{
-    /* width: 75%;
-    height: 40em;
+    width: 700px;
+    height: 600px;
     padding: 0px;
-    object-fit: cover; */
-    margin-left: 0px;
+    object-fit: cover;
 
 }
 
