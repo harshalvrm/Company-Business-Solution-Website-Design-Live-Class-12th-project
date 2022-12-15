@@ -127,6 +127,30 @@
     flex-direction: column;
     align-items: center;
     margin: 100px 0;
+
+}
+
+.displayInfoHeading{
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.displayInfoStats{
+    font-size: 20px;
+    font-family: 'Monsterrsat', sans-serif;
+    font-weight: 200;
+}
+
+
+
+.numericaldata{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.Projectdata{
+    color: #636C79;
 }
 
 .displayInfoStats{
@@ -146,8 +170,11 @@
     align-items: center;
 }
 
-.mooreInfoHead{
-    margin: 50px 0;
+.moreInfoHead{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    color: #373c44;
 }
 
 .card1, .card2, .card3 {
