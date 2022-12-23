@@ -79,7 +79,6 @@
     color: #fff;
     font-family: 'montserrat', sans-serif;
     width: 500px;
-    
 }
 
 .email-box{
@@ -118,7 +117,6 @@
     width: 600px;    
     height: 500px; 
     overflow: hidden;
-
 }
 
 .IntroleftSection img{
@@ -140,16 +138,17 @@
 .displayInfoHeading{
     font-size: 40px;
     font-family: 'Poppins', sans-serif;
-
 }
 
 .displayInfoStats{
+    width: 80%;
+    display: flex;
+    margin: 50px 0;
+    justify-content: space-between;
     font-size: 20px;
     font-family: 'Monsterrsat', sans-serif;
     font-weight: 200;
 }
-
-
 
 .numericaldata{
     font-size: 40px;
@@ -158,13 +157,6 @@
 
 .Projectdata{
     color: #636C79;
-}
-
-.displayInfoStats{
-    width: 80%;
-    display: flex;
-    margin: 50px 0;
-    justify-content: space-between;
 }
 
 .displayInfoImage img{
