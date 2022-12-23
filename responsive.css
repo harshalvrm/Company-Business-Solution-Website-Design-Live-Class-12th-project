@@ -1,0 +1,33 @@
+* ----------------MEDIA QUERIES--------------------- */
+
+@media screen and (max-width: 1346px) {
+    .main-div {
+      width: 100%;
+    }
+}
+
+  
+@media screen and (max-width: 1024px) {
+
+.menuList{
+    font-size: 15px;
+}
+
+.button, .Lets-talk{
+    padding: 8px 12px;  
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.introHeading{
+    font-size: 40px;
+}
+
+.introDescription{
+    font-size: 15px;
+    width: 400px;
+}
+
+
+
+}
