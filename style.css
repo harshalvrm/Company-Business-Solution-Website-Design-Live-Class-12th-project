@@ -44,9 +44,9 @@
     border: solid 0.0001em rgba(255, 255, 255, 0.247);
     background-color: #8BB7A2;
     color: #fff;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Arial', sans-serif;
     font-weight: 500;
-    font-size: 15px;
+    font-size: 18px;
 }
 
 .effectiveDesignBtn{
@@ -238,7 +238,8 @@ align-items: center;
 
 .CreativeTeamPortfolio{
     display: flex;
-    justify-content: center;
+    
+    justify-content: space-around;
 }
 
 .CreativeTeamHeading{
@@ -269,9 +270,19 @@ align-items: center;
 
 
 .portfolio_Image img{
-    width:200px;
-
+    width:300px;
 }
+
+.portfolio_Description{
+    width: 200px;
+}
+
+.Creativebtn{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0;
+}
+
 
 .footer{
     background-color: #10181D;
