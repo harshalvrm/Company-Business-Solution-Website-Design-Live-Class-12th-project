@@ -340,12 +340,26 @@ align-items: center;
 
 .line{
     width: 80%;
-
+    margin: auto;
+    
 }
 
 .lowerInfo{
+    height: 200px;
     display: flex;
     justify-content: space-around;
+    align-items:center; 
+
 }
 
-Images editing pending for card 1 2 3
+.headings{
+font-size: 17px;
+font-family: 'Monsterrsat', sans-serif;
+}
+
+.internalData{
+    font-size: 12px;
+    font-family: 'Monsterrsat', sans-serif;
+    margin: 10px 0;
+    color: #858e99;
+}
