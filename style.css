@@ -10,6 +10,7 @@
 .introSection{
     background-color: #636C79;
     height: 700px;
+    width: auto;
 }
 
 .nav{
@@ -206,8 +207,6 @@ align-items: center;
 
 .cardOne-right img{
     width: 500px;
-    object-fit: ;
-    
 }
 
 .cardTwo-left img{

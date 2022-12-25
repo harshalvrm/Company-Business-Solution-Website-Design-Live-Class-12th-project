@@ -78,6 +78,52 @@
 }
 
 .portfolio_Description{
-    font-size: 15px;}
+    font-size: 15px;
+}
+
+}
+
+
+
+@media screen and (max-width: 768px) {
+
+.introInfo{
+    flex-direction: column;
+ }
+
+.introSection{
+    height: auto;
+    width: 850px;
+    background-color: #636C79;
+}
+
+.IntroleftSection img{
+    width: 500px;
+    object-fit:cover;
+    margin-top: 0;
+}
+
+.displayInfoImage img{
+    width: 700px;
+}
+
+.cardOne-right img{
+    width: 500px;   
+}
+
+.IntrorightSection{
+    width: 700px;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+    margin-right: 60px;
+}
+
+.introHeading{
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+}
+
 
 }
