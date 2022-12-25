@@ -126,4 +126,21 @@
 }
 
 
+.displayInfo{
+    display: flex;
+    align-items: center;
+    width: 768px;
+    margin-left: 30px;
+}
+.moreInfoHead{
+    font-size: 30px;
+    }
+
+.effectiveDesign, .marketingStrategy, .QuoteMarketing{
+    width: 90%;
+    font-size: 25px;
+
+    }
+    
+
 }
