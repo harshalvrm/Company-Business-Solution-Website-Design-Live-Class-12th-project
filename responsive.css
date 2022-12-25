@@ -125,6 +125,9 @@
     text-align: center;
 }
 
+.moreInfo{
+width: 768px;
+}
 
 .displayInfo{
     display: flex;
@@ -141,26 +144,54 @@
     font-size: 25px;
     }
 .effectiveDesignInfo, .marketingStrategyInfo, .QuoteMarketingInfo{
-    width: 80%;
+    width: 100%;
     font-size: 15px;
 }
 
 .cardOne-right img{
-    width: 300px;
-    height: 500px;
+    right: 100px;
+    width: 250px;
+    height: 400px;
     object-fit: cover;
+    object-position: -300px;
 }
 
 .cardTwo-left img{
+    left: 100px;
     width: 300px;
     height: 500px;
     object-fit: cover;
 }
 
 .cardThree-right img{
+    right: 100px;
     width: 300px;
     height: 500px;
     object-fit: cover;
+    object-position: -250px;
+}
+
+.cardOne{
+    width: 768px;
+}
+
+.portfolio_Image img{
+    width:300px;
+}
+
+.CreativeTeam{
+    width: auto;
+}
+
+.CreativeTeamPortfolio{
+    width: auto;
+    flex-direction: column ;
+    align-items: center;
+}
+
+.portfolio_One, .portfolio_Two{
+    margin-bottom: 50px;
 }
 
 }
+
