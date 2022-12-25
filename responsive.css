@@ -139,8 +139,28 @@
 .effectiveDesign, .marketingStrategy, .QuoteMarketing{
     width: 90%;
     font-size: 25px;
-
     }
-    
+.effectiveDesignInfo, .marketingStrategyInfo, .QuoteMarketingInfo{
+    width: 80%;
+    font-size: 15px;
+}
+
+.cardOne-right img{
+    width: 300px;
+    height: 500px;
+    object-fit: cover;
+}
+
+.cardTwo-left img{
+    width: 300px;
+    height: 500px;
+    object-fit: cover;
+}
+
+.cardThree-right img{
+    width: 300px;
+    height: 500px;
+    object-fit: cover;
+}
 
 }
