@@ -30,9 +30,6 @@
 
 .menuList{
     margin: 0 -20px;
-}
-
-.menuList{
     width: 700px;
     display: flex;
     list-style: none;

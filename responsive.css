@@ -192,6 +192,8 @@ width: 768px;
 .portfolio_One, .portfolio_Two{
     margin-bottom: 50px;
 }
-
 }
 
+@media screen and (max-width: 576px) {
+
+}
