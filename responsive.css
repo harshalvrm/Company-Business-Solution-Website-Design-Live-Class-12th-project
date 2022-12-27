@@ -196,4 +196,31 @@ width: 768px;
 
 @media screen and (max-width: 576px) {
 
+.introSection{
+    height: auto;
+    width: auto;
+}
+
+.nav{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.menuItem{
+    padding: 20px;
+}
+
+.introHeading{
+    width: 500px;
+    margin-right: 30px;
+}
+
+.IntroleftSection img{
+    /* width: 200px;
+    object-fit: contain ; */
+
+}
+
+
 }
