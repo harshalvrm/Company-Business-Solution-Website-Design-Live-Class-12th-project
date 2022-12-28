@@ -26,17 +26,20 @@ Here's a Screen-Shot of my 12th project along with the responsive snippets.
 
 <br>
 
-![Responsive](./ScreenShot/SS_01_768px.png)
+![Responsive](https://user-images.githubusercontent.com/30925783/209862813-5fc3fbbb-1701-4e2f-82ca-51aef14453a6.png)
+
 <br>
 
+![Responsive](https://user-images.githubusercontent.com/30925783/209862893-b4b12786-6559-4791-ab4b-67a646753a63.png)
 
-![Responsive](./ScreenShot/SS_03_768px.png)
 <br>
 
-![Responsive](./ScreenShot/SS_01_576px.png)
+![Responsive](https://user-images.githubusercontent.com/30925783/209862920-16d1aa22-9371-401b-92e9-5cb89b4464a8.png)
+
 <br>
 
-![Responsive](./ScreenShot/SS_03_576px.png)
+![Responsive](https://user-images.githubusercontent.com/30925783/209862964-5a558a15-8c24-4c96-a5be-ab7f3f90b28b.png)
+
 <br>
 
 
