@@ -18,7 +18,7 @@ The image property was an important element that I learned in this project. Corr
 ## About The Project
 <br>
 
-![project 12](./ScreenShot/gif.gif)
+![project 12](https://user-images.githubusercontent.com/30925783/209862508-68b5a096-f016-47d4-bb24-6b76bbcff7b9.gif)
 
 
 Here's a Screen-Shot of my 12th project along with the responsive snippets.
