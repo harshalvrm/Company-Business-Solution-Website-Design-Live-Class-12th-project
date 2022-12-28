@@ -1,15 +1,14 @@
-# Hosting Company's Website Design Template : 11th Website in pure HTML and CSS
+# Company's Business Solution Website Design Template : 12th Website in pure HTML and CSS
 
 ---
 
 ## Description
-This is a landing page designed for a hosting service provider firm in pure HTML and CSS. The overall design consists of multiple sections. The entire webpage is divided into multiple segments which are the navigation bar, cards section, service section, feature cards, testimonial, pricing section, pre-footer, and footer section. Each segment has its design paradigm based entirely on user engagement. All the buttons are designed with gradients and animations. 
+This is a landing page designed for a business solution firm in pure HTML and CSS. The overall design consists of multiple sections. The entire webpage is divided into multiple segments which are the navigation bar, intro section, cards section, service section, creative team introduction with images, and footer section with sitemap and social links. Each segment has its design paradigm based entirely on user engagement. All the buttons are designed with gradients and animations.
 <br>
 
-Most of the alignment with the elements was done using `Flexbox` and its various properties. In total, I gave 14-15 hours of my time, which was divided among several sittings. In the beginning, I spent a lot of time writing HTML segments where I declared all of the crucial components like the navbar, service section, card sections, feature section, pricing panel, testimonials, pre-footer, footer, and all of their images, and icons. Selecting the correct icons, images, and their size according to the color scheme was one of the challenging tasks for me. Eventually, I spent most of my time designing and maintaining the responsiveness of each object for multiple screen sizes. In this webpage, the responsive breakpoints are at `1024px`, `768px`, and `576px`.
+Most of the alignment with the elements was done using `Flexbox` and its various properties. In total, I gave 14-15 hours of my time, which was divided among several sittings. In the beginning, I spent a lot of time writing HTML segments where I declared all of the crucial components like the navbar, intro section, card sections, creative team, button designing, footer, and all of their images, and icons. Selecting the correct icons, images, and their size according to the color scheme was one of the challenging tasks for me. Eventually, I spent most of my time designing and maintaining the responsiveness of each object for multiple screen sizes. In this webpage, the responsive breakpoints are at `1024px`, `768px`, and `576px`.
 <br>
-
-The linear gradient property was one of the most valuable things I learned from this project, apart from its HTML content and design. It was challenging to work with gradients on the buttons and borders in this project. This particular project has trained me more on `Flexbox`, `media queries, `images`, and properties along with designing aspects.
+The image property was an important element that I learned in this project. Correct cropping and aligning of images were necessary for this webpage. Specifically, I learned the correct usage of `object fit` and its properties like `contain`, `fill`, and `cover`. Apart from that, another property that taught me alignment of the element's content within the element's box is `object-position`. I used object position to correctly align the image within a particular dimension. This particular project has trained me more on `Flexbox`, `media queries, `images`, and properties along with designing aspects.
 
 <br>
 
@@ -19,25 +18,25 @@ The linear gradient property was one of the most valuable things I learned from 
 ## About The Project
 <br>
 
-![project 11](./ScreenShot/Home01_Original.png)
+![project 12](./ScreenShot/gif.gif)
 
 
-Here's a Screen-Shot of my 11th project along with the responsive snippets.
+Here's a Screen-Shot of my 12th project along with the responsive snippets.
 <div style="text-align: center;">
 
 <br>
 
-![Responsive](./ScreenShot/Home02_Original.png)
+![Responsive](./ScreenShot/SS_01_768px.png)
 <br>
 
 
-![Responsive](./ScreenShot/Home01_576px.png)
+![Responsive](./ScreenShot/SS_03_768px.png)
 <br>
 
-![Responsive](./ScreenShot/Home02_576px.png)
+![Responsive](./ScreenShot/SS_01_576px.png)
 <br>
 
-![Responsive](./ScreenShot/Footer_768px.png)
+![Responsive](./ScreenShot/SS_03_576px.png)
 <br>
 
 
@@ -50,9 +49,9 @@ Here's a Screen-Shot of my 11th project along with the responsive snippets.
     <img src="https://learncodeonline.in/mascot.png" alt="Logo" width="80">
   </a>
 
-<h3 align="center">project 11 - Hosting Service</h3>
+<h3 align="center">Project 12 - Business Solutions</h3>
   <p align="center">   
-    <a href="https://hosting-website-project-11.netlify.app/">View Live Demo</a>
+    <a href="https://developer-website-project-12.netlify.app/">View Live Demo</a>
   </p>
 </div>
 
@@ -75,7 +74,7 @@ Here's a Screen-Shot of my 11th project along with the responsive snippets.
 This project is presently deployed in **`Netlify Service`**.
 
 
-[Live Project URL](https://hosting-website-project-11.netlify.app/)
+[Live Project URL](https://developer-website-project-12.netlify.app/)
 <br>
 
 <!-- LEARNT -->
@@ -84,7 +83,7 @@ This project is presently deployed in **`Netlify Service`**.
 ## Learnt
 In This project I learnt the following properties of HTML and CSS.
 - In depth learning of Responsive designs.
-- Linear Gradient
+- Image positioning properties
 - Flexbox and its Properties. 
 - Media Queries.
 
@@ -101,6 +100,6 @@ In This project I learnt the following properties of HTML and CSS.
 
 <br>
 
-[Project 11 Link](https://hosting-website-project-11.netlify.app/) 
+[Project 12 Link](https://developer-website-project-12.netlify.app/) 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/66a3f6c0-0dc7-4e20-9f99-cf2f49600a18/deploy-status)](https://app.netlify.com/sites/fabulous-salamander-ff3d68/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4d947b2a-0788-49fe-a102-619d44ebbb4a/deploy-status)](https://app.netlify.com/sites/developer-website-project-12/deploys)
